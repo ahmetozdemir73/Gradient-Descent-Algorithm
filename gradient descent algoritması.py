@@ -19,7 +19,7 @@ y=np.array([1.1,3.2,4.5,5.7,10,11.5,12.8,15,16.5,20.1])
 
 teta=np.ones((2,1)) #tetalara gecici olarak 1 verdik
 
-egitimSayisi=len(x)  #eğitim sayımızı x'in uzunluğuna eşitledik
+egitimSayisi=len(x)  #eğitim sayımızı x'in boyutuna eşitledik
 
 
 
