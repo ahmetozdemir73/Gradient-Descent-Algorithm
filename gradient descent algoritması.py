@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 31 17:42:19 2020
 
-@author: Ahmet
+
 """
 
 
